@@ -1,6 +1,9 @@
 {
     "videos": [
         {
+        "category":"Sports",
+        "data" : [
+        {
             "id": "0D0igTJBPHM",
             "name": "Bein Sports 1",
             "image": "https://upload.wikimedia.org/wikipedia/fr/b/b3/BEINSPORTS_1%281%29.jpg"
@@ -9,6 +12,8 @@
             "id": "3wuEdZD8f9w",
             "name": "Bein Sports 2",
             "image": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png"
+        }
+    ]
         }
     ]
 }
