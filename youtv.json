@@ -3,6 +3,11 @@
         {
         "category":"Sports",
         "data" : [
+           {
+            "id": "0Y-IRcUJi6o",
+            "name": "Bein Sports",
+            "image": "https://assets.beinsports.com/3.2.8/images/batch-logo.png"
+        },
         {
             "id": "0D0igTJBPHM",
             "name": "Bein Sports 1",
@@ -13,7 +18,27 @@
             "name": "Bein Sports 2",
             "image": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png"
         }
-    ]
+        ]
+        },
+        {
+        "category":"Musics",
+            "data" : [
+                  {
+            "id": "fcquvJ-Ef4Y",
+            "name": "Relaxing Music ",
+            "image": "https://i.ytimg.com/vi/p4xar_R7VYU/maxresdefault.jpg"
+        },
+        {
+            "id": "5qap5aO4i9A",
+            "name": "Lofi Hip Hop Radio",
+            "image": "https://i.ytimg.com/vi/5qap5aO4i9A/maxresdefault.jpg"
+        },
+        {
+            "id": "zuKs2sTMAhw",
+            "name": "Tuesday Jazz",
+            "image": "https://image.freepik.com/vecteurs-libre/instruments-musique-jazz_81894-3155.jpg"
+        }
+            ]
         }
     ]
 }
